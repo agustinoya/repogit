@@ -4,3 +4,5 @@ modificado dos veces
 
 
 getion de perfiles
+
+agregado remotamente
