@@ -1,1 +1,3 @@
-Contenido del fichero A modificado dos veces
+Contenido del fichero A 
+
+modificado dos veces
